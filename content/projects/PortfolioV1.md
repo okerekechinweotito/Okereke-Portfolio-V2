@@ -8,7 +8,7 @@ tech:
   - SCSS
   - Google Analytics
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 First Iteration of my portfolio site built with React and hosted on Netlify

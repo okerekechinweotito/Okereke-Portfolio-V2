@@ -1,9 +1,9 @@
 ---
-date: '3'
+date: '2'
 title: 'endPoverty'
-cover: './course-card.png'
+cover: './demo.png'
+github: 'https://github.com/okerekechinweotito/endPoverty-commercial'
 external: 'http://www.endpoverty.ml'
-cta: 'http://www.endpoverty.ml'
 tech:
   - HTML
   - CSS
