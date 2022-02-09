@@ -3,7 +3,7 @@ date: '2021-08-08'
 title: 'React Developer'
 company: 'HNGi8'
 location: 'Remote'
-range: 'August 2021 - Present'
+range: 'August - December 2021'
 url: ' https://twitter.com/hnginternship'
 ---
 
