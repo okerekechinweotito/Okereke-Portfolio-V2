@@ -69,8 +69,8 @@ const Hero = () => {
         I'm a passionate frontend developer with a Bsc in Computer Science. I love open-source and I
         dabble into machine leaning in my spare time. HNGi8 Finalist (2021) and Winner of IMSU
         hackathon Fest (2020). Currently working as a React Developer at{' '}
-        <a href="https://www.zuri.chat" target="_blank" rel="noreferrer">
-          ZuriChat
+        <a href="https://www.ibcscorp.com" target="_blank" rel="noreferrer">
+          IBCSCORP
         </a>
       </p>
     </>
@@ -87,7 +87,7 @@ const Hero = () => {
     <StyledHeroSection>
       <Helmet>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
         <link href="https://fonts.googleapis.com/css2?family=Sail&display=swap" rel="stylesheet" />
       </Helmet>
       {prefersReducedMotion ? (

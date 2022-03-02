@@ -164,8 +164,8 @@ const About = () => {
               I haven't looked back since then, I moved from building simple HTML/CSS sites to
               developing complex React Applications for real world use. Right now , my main focus is
               to help{' '}
-              <a href="https://www.zuri.chat" target="blank">
-                ZuriChat (a startup)
+              <a href="https://www.ibcscorp.com" target="blank">
+                IBCSCORP
               </a>{' '}
               grow and expand into the world market
             </p>
