@@ -3,7 +3,7 @@ date: '2019-06-01'
 title: 'Frontend Developer and Core Member'
 company: 'Google DSC'
 location: 'Imo State University'
-range: 'June - December 2019'
+range: 'September 2017 - 2021'
 url: 'https://gdsc.community.dev/imo-state-university-owerri'
 ---
 

@@ -1,11 +1,13 @@
 ---
-date: '2019-01-01'
-title: 'Frontend developer'
-company: 'Weasley Institute'
-location: 'Owerri , Nigeria'
-range: 'January - June 2019'
-url: 'https://imsu.edu.ng'
+date: '2021-08-08'
+title: 'Frontend Developer'
+company: 'Weasley-Inst'
+location: 'Owerri , Imo State'
+range: 'December 2019 - August 2020'
+url: '#'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, SCSS, JavaScript, and React
-- Proposed and implemented scalable solutions to issues identified with client's web applications
+- Developed and shipped highly interactive web applications for Weasley Institute using React
+- Proposed and implemented scalable solutions to issues identified within already existing codebase
+- Interfaced with UI/UX designers and other developers to ensure thoughtful and coherent user experiences
+  across the company’s websites
