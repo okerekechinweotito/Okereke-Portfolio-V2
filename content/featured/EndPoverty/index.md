@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'endPoverty'
 cover: './demo.png'
 github: 'https://github.com/okerekechinweotito/endPoverty-commercial'
