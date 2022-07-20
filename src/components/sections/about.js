@@ -132,14 +132,14 @@ const About = () => {
 
   const skills = [
     'HTML',
-    'CSS/SCSS',
+    'CSS/SCSS/MaterialUI',
     'JavaScript (ES6+)',
     'React',
+    'Next.js',
+    'Gatsby',
     'Redux',
     'Git',
     'Google-Analytics',
-    'Figma',
-    'Unit Testing',
   ];
 
   return (
