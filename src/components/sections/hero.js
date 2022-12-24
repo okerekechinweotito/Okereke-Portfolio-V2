@@ -67,9 +67,9 @@ const Hero = () => {
     <>
       <p>
         I'm a passionate frontend developer with a Bsc in Computer Science. I love open-source and I
-        dabble into Crypto in my spare time. Currently working as a React Developer at{' '}
-        <a href="https://www.ibcscorp.com" target="_blank" rel="noreferrer">
-          IBCSCORP
+        dabble into Crypto in my spare time. Currently working as a Frontend Engineer at{' '}
+        <a href="https://coresight.com" target="_blank" rel="noreferrer">
+          Coresight Research
         </a>
       </p>
     </>

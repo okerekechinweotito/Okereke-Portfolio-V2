@@ -132,7 +132,7 @@ const About = () => {
 
   const skills = [
     'HTML',
-    'CSS/SCSS/MaterialUI',
+    'CSS/SCSS/MaterialUI/ChakraUI',
     'JavaScript (ES6+)',
     'React',
     'Next.js',
@@ -162,12 +162,12 @@ const About = () => {
 
             <p>
               I haven't looked back since then, I moved from building simple HTML/CSS sites to
-              developing complex React Applications for real world use. Right now , my main focus is
-              to help{' '}
-              <a href="https://www.ibcscorp.com" target="blank">
-                IBCSCORP
+              developing complex frontend products for real world use. Right now , my main focus is
+              helping{' '}
+              <a href="https://coresight.com/" target="blank">
+                Coresight Research
               </a>{' '}
-              grow and expand into the world market
+              attain greater heights
             </p>
 
             <p>

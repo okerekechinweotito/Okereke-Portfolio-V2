@@ -63,7 +63,7 @@ const Contact = () => {
         I am actively searching for open Frontend positions. You can reach me via my{' '}
         <a href={`mailto:${email}`}>mail</a>, checkout my{' '}
         <a
-          href="https://drive.google.com/file/d/183QfnYSNcaV3bLslC-tgBOH7iolPwldZ/view"
+          href="https://drive.google.com/file/d/1ZvcAMV65V77ol0p4xVDIi5ZsFzT2K5-3/view?usp=share_link"
           target="_blank"
           rel="noreferrer">
           resume
