@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'ZuriChat'
 cover: './demo.png'
 github: 'https://github.com/okerekechinweotito/zc_main'
